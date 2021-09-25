@@ -1,0 +1,7 @@
+version: '3.4'
+services:
+  ics-sync:
+    build:
+      context: "../"
+      dockerfile: "ICS_SYNC_docker/Dockerfile"
+    image: "ics-sync:1.0"

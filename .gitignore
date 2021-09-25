@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+venv/
+token files/
+creds.json
+config.json
+.env
