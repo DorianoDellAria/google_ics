@@ -1,5 +1,5 @@
 # Google ics sync
-python script for synchronising and filtering event from my cursus ics to Google calendar using Google API.
+python script for synchronising and filtering events from my cursus ics to Google calendar using Google API.
 ## Requirements
 Install python requirements
 ```shell
